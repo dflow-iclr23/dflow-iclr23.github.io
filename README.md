@@ -1,14 +1,14 @@
 # DeMR
 
-This is the repository that contains source code for the BMVC'21 paper, [DeMR](https://demr-bmvc21.github.io).
+This is the repository that contains source code and data for the ICLR'23 paper, [DFlow](https://dflow-iclr23.github.io/).
 
-If you find DeMR useful for your work please cite:
+If you find DFlow useful for your work please cite:
 ```
-@article{Youwang2021Unified3M,
-  author    = {Kim Youwang and Kim Ji-yeon and Kyungdon Joo and Tae-Hyun Oh},
-  title     = {Unified 3D Mesh Recovery of Humans and Animals by Learning Animal Exercise},
-  journal   = {British Machine Vision Conference (BMVC)},
-  year      = {2021},
+@inproceedings{byung2023dflow,
+  author    = {Byung-Ki, Kwon and Hyeon-Woo, Nam and Kim, Ji-Yun and Oh, Tae-Hyun},
+  title     = {DFlow: Learning to Synthesize Better Optical Flow Datasets via a Differentiable Pipeline},
+  journal   = {International Conference on Learning Representations},
+  year      = {2023},
 }
 ```
 
