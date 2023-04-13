@@ -1,4 +1,4 @@
-# DeMR
+# DFlow: Learning to Synthesize Better Optical Flow Datasets via a Differentiable Pipeline
 
 This is the repository that contains source code and data for the ICLR'23 paper, [DFlow](https://dflow-iclr23.github.io/).
 
